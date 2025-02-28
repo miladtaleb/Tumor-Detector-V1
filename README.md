@@ -15,9 +15,8 @@ This project implements a Tumor Detection System using deep learning, specifical
 The main goal of this project is to develop an automated way for medical professionals to detect tumors early using AI.
 
 Key Features:
-
-    Image classification using CNNs.
-    Ability to classify images into tumor/no-tumor categories.
+Image classification using CNNs.
+Ability to classify images into tumor/no-tumor categories.
 
 Getting Started
 Prerequisites
@@ -29,8 +28,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/tumor-detection.git
-cd tumor-detection
+git clone https://github.com/miladtaleb/Tumor-Detector-V1.git
+cd Tumor-Detector-V1.git
 
 Install the dependencies:
 
@@ -45,8 +44,8 @@ The dataset should consist of MRI images, ideally from a publicly available data
 
 To preprocess the dataset:
 
-    Resize images to a uniform shape (224x224 pixels).
-    Normalize image pixel values to a range of [0, 1].
+Resize images to a uniform shape (224x224 pixels).
+Normalize image pixel values to a range of [0, 1].
 
 License:
 This project is licensed under the MIT License.
